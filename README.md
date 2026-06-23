@@ -31,13 +31,20 @@ I used a Matrix style connection for the key switches, this was because I used 6
 ### Acknowledgements:
 
 I used the 3D models provided from these links:
+
 [Key Switches (Cherry MX)](https://github.com/hineybush/CherryMX)
+
 [Rotary Encoder EC11](https://grabcad.com/library/rotary-encoder-17)
+
 [General Resources and Links](https://hackpad.hackclub.com/resources)
 
+
 Also, I used the HackPad manual:
+
 [HackPad Manual Link](https://hackpad.hackclub.com/)
 
 Finally, I must give credit to two Hackers who provided me with some inspiration and _very_ useful github repos!
+
 [BajajPad by MrKillerShaunBa](https://github.com/MrKillerShaunBa/BajajPad/tree/main)
+
 [HackPad by Ayushj-18](https://github.com/ayushj-18/hackpad/tree/main)
