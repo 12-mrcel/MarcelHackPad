@@ -1,8 +1,11 @@
+
 # MarcelHackPad
 This is the repository for my HackPad Project, which is aptly named "Marcel Hack Pad"
 It is a useful hackpad with a rotary encoder, allowing for some extra buttons and functionality when working on my computer.
 
 <img width="889" height="602" alt="Screenshot 2026-06-23 at 11 19 56 AM" src="https://github.com/user-attachments/assets/57b7af1d-de8e-427e-88ed-002a4a95e0db" />
+
+<img width="689" height="692" alt="Screenshot 2026-06-23 at 12 59 50 PM" src="https://github.com/user-attachments/assets/87543d9a-21a1-4913-be98-2b63e9e2f7c7" />
 
 The design is inspired by the Apollo mission control desks at NASA, I have used several images as inspiration and reference for design choices. This includes: 
 
@@ -16,7 +19,7 @@ The design is inspired by the Apollo mission control desks at NASA, I have used 
 
 See it the project here On KiCanvas: 
 
-[![Try it](https://img.shields.io/badge/Try%20it-Live%20Demo-blue?style=for-the-badge)](https://kicanvas.org) 
+[![Try it](https://img.shields.io/badge/Try%20it-Live%20Demo-blue?style=for-the-badge)]([https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2F12-mrcel%2FMarcelHackPad)
 
 ## Features of the Project:
 
